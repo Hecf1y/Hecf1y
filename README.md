@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Hecf1y/Hecf1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a junior front-end developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS
+
+Here are a few of my pet projects.
+
+[Attractions](https://hecf1y.github.io/cards/)
+
+[AimTraining](https://hecf1y.github.io/AimTrainingGame/)
+
+[Background changer](https://hecf1y.github.io/Background-changer/)
+
+[Color Board](https://hecf1y.github.io/board/)
+
+[Drag and Drop](https://hecf1y.github.io/Drag-and-Drop/)
+
+[Todo](https://hecf1y.github.io/ToDoList-js/)
+
+[MovieApp](https://hecf1y.github.io/MovieApp/?)
+
+[Neumorphism-Calculator](https://hecf1y.github.io/Neumorphism-Calculator/)
+
+[Sticky Note](https://hecf1y.github.io/Sticky-Note/)
+
+[Slider](https://hecf1y.github.io/slider/)
